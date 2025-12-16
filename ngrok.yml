@@ -1,0 +1,7 @@
+version: "2"
+authtoken: TU_AUTH_TOKEN_DE_NGROK
+tunnels:
+  adiario:
+    proto: http
+    addr: 3000
+    inspect: true
